@@ -26,6 +26,8 @@ case 1:
 
         for (i = 1; i <= angka2; i++)
         {
+            //use hasil += angka1;
+            //shorter 
             hasil = hasil + angka1;
         }
         cout << angka1 << " x " << angka2 << " = " << hasil << endl;
