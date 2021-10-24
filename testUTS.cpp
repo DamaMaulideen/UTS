@@ -5,6 +5,8 @@ int main(){
 
 int program, i, angka1, angka2;
 char restart;
+//create 'hasil' as a global varible
+//so you dont need to recreate it for each case
 
 
 cout << "Program apa yang ingin anda gunakan?\n1. Perkalian\n2. Pembagian\n3. Tes Kebugaran" << endl;
