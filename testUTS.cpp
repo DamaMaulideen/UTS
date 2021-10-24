@@ -43,6 +43,8 @@ case 2:
         cout << "Masukkan angka kedua : ";
         cin >> angka2;
 
+        //use (if else)
+        //so program can calculate if angka2 is bigger than angka1
         while (angka1 >= angka2)
         {
             angka1 -= angka2;
